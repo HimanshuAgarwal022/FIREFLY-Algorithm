@@ -60,7 +60,7 @@ This repository includes the _firefly algorithm_ like Xin-She Yang introduced in
 
 ## References
 
-[1](https://github.com/DavidAnson/markdownlint/blob/v0.20.2/doc/Rules.md#md033)
+[1](https://www.researchgate.net/publication/45904853_Firefly_Algorithms_for_Multimodal_Optimization)
 Yang, Xin-She. (2010). Fireﬂy Algorithms for Multimodal Optimization. 5792. doi: 10.1007/978-3-642-04944-6_14.
 [2](https://ieeexplore.ieee.org/document/699146)
 Y. Shi and R. Eberhart, "A modified particle swarm optimizer," 1998 IEEE International Conference on Evolutionary Computation Proceedings. IEEE World Congress on Computational Intelligence (Cat. No.98TH8360), Anchorage, AK, USA, 1998, pp. 69-73, doi: 10.1109/ICEC.1998.699146.
